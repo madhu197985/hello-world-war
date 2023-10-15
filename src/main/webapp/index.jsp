@@ -1,10 +1,9 @@
 <html>
 <head>
-<title>BIRTHDAY PARTY</title>
+<title>HOME COMING</title>
 </head>
 <body>
-	<h1>happy sunday</h1>
-<h2>happy monday</h2>
+	<h1>SPIDERMAN</h1>
 	<p>
 		current time
 		<%= new java.util.Date() %></p>

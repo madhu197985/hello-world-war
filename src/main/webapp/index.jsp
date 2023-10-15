@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>chethan birthday</title>
+<title>BIRTHDAY PARTY</title>
 </head>
 <body>
-	<h1>happy birthday</h1>
+	<h1>happy sunday</h1>
 	<p>
 		current time
 		<%= new java.util.Date() %></p>

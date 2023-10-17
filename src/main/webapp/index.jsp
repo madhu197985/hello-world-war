@@ -4,6 +4,7 @@
 </head>
 <body>
 	<h1>happy birthday</h1>
+        <h1>happy birthday</h1>
 	<p>
 		current time
 		<%= new java.util.Date() %></p>
